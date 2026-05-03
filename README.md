@@ -12,6 +12,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### 💕ProjectDozG
- - Im the maintainer of project , why i create it? i just want bring S series feature to A series phone 
+ - Im the maintainer of this project , why i create it? i just want bring S series feature to A series phone 
  ### 🙌 Contact me here
  - leduydaiforbusiness@gmail.com
