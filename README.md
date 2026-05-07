@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img width="720" height="405" alt="93bef533-fb02-42dd-8184-7be15cf5bbdd" src="https://github.com/user-attachments/assets/f995a2af-08e4-494f-863c-b4f5bac4f1b7" />
+<img width="972" height="547" alt="640653367_1279497244061410_7240616412839458828_n" src="https://github.com/user-attachments/assets/ae17e89d-0f31-4f78-9935-7ce6938bd30d" />
 
 ### 💫 About Me:
 - 🔭 I’m currently working on custom-samsung firmware for old devices
