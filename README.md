@@ -15,4 +15,3 @@
  - Im the maintainer of this project , why i create it? i just want bring S series feature to A series phone 
  ### 🙌 Contact me here
  - leduydaiforbusiness@gmail.com
- # Never fall in love again...
