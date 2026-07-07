@@ -9,7 +9,7 @@
 
 ### 🛠 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,cplusplus)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,cpp,arch,koltin)](https://skillicons.dev)
 
 ### 💕ProjectDozG
  - Im the maintainer of this project , why i create it? i just want bring S series feature to A series phone 
