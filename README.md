@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<img width="972" height="547" alt="640653367_1279497244061410_7240616412839458828_n" src="https://github.com/user-attachments/assets/ae17e89d-0f31-4f78-9935-7ce6938bd30d" />
+<img width="736" height="414" alt="The Drive - 12 Hours - 4K Ultra HD 60fps" src="https://github.com/user-attachments/assets/b0cd2bc5-0fe1-48a8-946b-5a69a4f39e21" />
+
 
 ### 💫 About Me:
 - 🔭 I’m currently working on custom-samsung firmware for old devices
