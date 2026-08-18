@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img width="736" height="414" alt="The Drive - 12 Hours - 4K Ultra HD 60fps" src="https://github.com/user-attachments/assets/b0cd2bc5-0fe1-48a8-946b-5a69a4f39e21" />
+<img width="1000" height="414" alt="The Drive - 12 Hours - 4K Ultra HD 60fps" src="https://github.com/user-attachments/assets/b0cd2bc5-0fe1-48a8-946b-5a69a4f39e21" />
 
 
 ### 💫 About Me:
